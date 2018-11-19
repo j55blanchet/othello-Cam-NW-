@@ -1,0 +1,16 @@
+{
+  "name": "othello",
+  "version": "1.0.0",
+  "description": "Julien's version of the Othello Game",
+  "main": "othello.js",
+  "scripts": {
+    "test": "node --experimental-modules othello-test.js"
+  },
+  "keywords": [
+    "Othello",
+    "Julien",
+    "Studio"
+  ],
+  "author": "Julien Blanchet",
+  "license": "ISC"
+}
